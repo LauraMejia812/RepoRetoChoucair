@@ -10,7 +10,7 @@ Feature:As a user of the platform, I want to interact with the Pages module to c
     When  the user creates the page
       |title|url|
       |Prueba choucair2|https://computacioninteractiva.com/wp-content/uploads/2019/07/INVERTIR-EN-TECNOLOGIA.png|
-    Then  He validates that the page has been published Prueba choucair2
+    Then  He validates that the page has been published PRUEBA CHOUCAIR2
 
   @EditPage
   Scenario: Certify that the platform allows editing a page already created
